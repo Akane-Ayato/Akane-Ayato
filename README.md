@@ -5,8 +5,8 @@
 <br/>
 
 <a href="https://github.com/Akane-Ayato"><img src="https://img.shields.io/badge/GitHub-Akane--Ayato-202833?style=flat-square&logo=github" alt="GitHub"/></a>
-<a href="https://t.me/Ayato_Akane"><img src="https://img.shields.io/badge/Telegram-@Ayato__Akane-202833?style=flat-square&logo=telegram&logoColor=56D6D0" alt="Telegram"/></a>
-<a href="https://t.me/ITsAnimen"><img src="https://img.shields.io/badge/Anime-@ITsAnimen-202833?style=flat-square&logo=telegram&logoColor=56D6D0" alt="Anime channel"/></a>
+<a href="https://t.me/quanxi_core"><img src="https://img.shields.io/badge/Telegram-Qυαɳxι ヅ ⁶⁶⁶-202833?style=flat-square&logo=telegram&logoColor=56D6D0" alt="Telegram"/></a>
+<a href="https://t.me/void_animes"><img src="https://img.shields.io/badge/Anime-𝙰𝚗𝚒𝚖𝚎 𝚅𝚘𝚒𝚍-202833?style=flat-square&logo=telegram&logoColor=56D6D0" alt="Anime channel"/></a>
 
 </div>
 
@@ -45,8 +45,8 @@ I like making useful things, figuring out how they work, and improving them unti
 
 ## Elsewhere
 
-- Telegram: [@Ayato_Akane](https://t.me/Ayato_Akane)
-- Anime channel: [@ITsAnimen](https://t.me/ITsAnimen)
+- Telegram: [Qυαɳxι ヅ ⁶⁶⁶](https://t.me/quanxi_core)
+- Anime channel: [𝙰𝚗𝚒𝚖𝚎 𝚅𝚘𝚒𝚍](https://t.me/Void_Animes)
 - Spotify: [Listen here](https://open.spotify.com/user/31ifxbg366477gfip5f2hws2jule)
 
 ---
